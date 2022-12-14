@@ -50,13 +50,13 @@ MonoBehaviour:
       animationStateStartValue: 1
       animationStateEndValue: 1
     - stateName: hovered
-      animationStateStartValue: 1.05
-      animationStateEndValue: 0.95
+      animationStateStartValue: 1.1
+      animationStateEndValue: 0.9
     - stateName: hoveredPriority
       animationStateStartValue: 1
       animationStateEndValue: 1
     - stateName: selected
-      animationStateStartValue: 0.9
+      animationStateStartValue: 0.95
       animationStateEndValue: 1
     - stateName: activated
       animationStateStartValue: 1
