@@ -1,2 +1,2 @@
 # OpenXR_XRI_Sample
-Showcase for new XRI features
+Set of samples showing off new features for XRI
